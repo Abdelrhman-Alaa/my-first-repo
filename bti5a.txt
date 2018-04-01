@@ -1,6 +1,10 @@
 bati5
 roman
+<<<<<<< HEAD
 mastoor2
+=======
+aboodaa2
+>>>>>>> aboda
 borto2an
 Solo
 aboooda
